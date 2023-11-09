@@ -34,4 +34,4 @@ fun main() {
     var d = a?.hunger
     a?.hunger = 43
     println(d)
-}
+} 
